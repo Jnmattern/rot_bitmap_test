@@ -1,0 +1,28 @@
+{
+  "uuid": "3d02f0fd-c10f-4e18-825e-c942973ef4cc",
+  "shortName": "RotBitmap Test",
+  "longName": "RotBitmap Test",
+  "companyName": "Jnm",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_HAND_MINUTE",
+        "file": "images/hand-minute.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_HAND_HOUR",
+        "file": "images/hand-hour.png"
+      }
+    ]
+  }
+}
